@@ -87,7 +87,7 @@ author:
   employer         : "Reykjavik University"
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "raphal20@ru.is"
   researchgate     : "https://www.researchgate.net/profile/Raphael-Reynouard"
   uri              : #"https://rapfff.github.io"
   bitbucket        :
@@ -176,15 +176,18 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
+    output: false
+    permalink: /:collection/:path/
+  tools:
     output: true
     permalink: /:collection/:path/
 
