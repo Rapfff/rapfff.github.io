@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Raphaël Reynouard"
 title_separator          : "-"
 name                     : &name "Raphaël Reynouard"
 description              : &description "PhD student in Machine Learning & Model Checking at Reykjavik University"
@@ -85,11 +85,11 @@ author:
   bio              : "PhD student in Machine Learning & Model Checking at Reykjavik University"
   location         : "Reykjavik, Iceland"
   employer         : "Reykjavik University"
-  pubmed           : ""
-  googlescholar    : ""
+  pubmed           : 
+  googlescholar    : 
   email            :
   researchgate     : "https://www.researchgate.net/profile/Raphael-Reynouard"
-  uri              : "https://rapfff.github.io"
+  uri              : #"https://rapfff.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
