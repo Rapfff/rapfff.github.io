@@ -33,11 +33,7 @@
 	 	 <b>{{ title }}</b>
       {% endif %}
     </h3>
-    {% if post.read_time %}
-      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
-    {% endif %}
-    {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{ post.citation }}</p> {% endif %}
-	<p>{{ post.authors }},<i>{{ post.conference }} {{ post.year}}</i></p>
+	<p>{{ post.language }},{{ post.year}}</p>
     </li>
  </article>
 </div>
