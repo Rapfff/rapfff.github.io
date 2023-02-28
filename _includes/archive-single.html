@@ -44,11 +44,11 @@
         {% elsif post.collection == 'publications' %}
 		  <p>{{ post.authors }}<br>
           Presented at <i>{{ post.conference }}</i>  {{ post.year}} <br>
-		  <a href="{{ post.pdf }}"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> - <a href="{{ post.cite }}">cite</a></p>
+		  <a href="{{ post.pdf }}">pdf</a> - <a href="{{ post.cite }}">cite</a></p>
 
 		{% elsif post.collection == 'tools' %}
 		  <p>Language: {{ post.language}}<br>
-		  <a href="{{ post.source }}"><i class="fa fa-github" aria-hidden="true"></i></a> - <a href="{{ post.doc }}">Documentation</a><br>
+		  <a href="{{ post.source }}">Source code</a> - <a href="{{ post.doc }}">Documentation</a><br>
 		  {{ post.year}}
 		  </p>
 
