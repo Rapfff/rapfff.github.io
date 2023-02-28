@@ -9,4 +9,5 @@ year : 2021
 date: 2009-10-01
 paperurl: 'https://arxiv.org/abs/2009.12600'
 authors: 'G. Rens, J.-F. Raskin, <b>R. Reynouard</b> and G. Marra'
+excerpt : ''
 ---
