@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[pdf](/files/CV.pdf)
+
 Education
 ======
 * B.S. in Computer Science, Université Libre de Bruxelles, Belgium, 2019
@@ -17,12 +19,10 @@ Education
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* Latex
+* R
+* Tensorflow
 
 Publications
 ======
@@ -35,3 +35,8 @@ Tools
   <ul>{% for post in site.tools %}
     {% include archive-single-tool-cv.html %}
   {% endfor %}</ul>
+
+Languages
+=========
+* French (native)
+* English (professional profeciency)

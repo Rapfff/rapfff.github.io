@@ -10,9 +10,9 @@ redirect_from:
 
 About me
 --------
-Blablabla
+I am a PhD student at [Reykjavik University](https://ru.is), under the supervision of Anna Ingólfsdóttir and [Giovanni Bacci](https://people.cs.aau.dk/~giovbacci/).
 
 About my thesis
 ---------------
-Blablabla
-
+In my PhD project, I design and implement machine learning algorithms estimating Markov models.
+My PhD thesis is in between **machine learning** and **model checking**.
