@@ -16,3 +16,7 @@ About my thesis
 ---------------
 In my PhD project, I design and implement machine learning algorithms estimating Markov models.
 My PhD thesis is in between **machine learning** and **model checking**.
+
+Contact
+-------
+You can reach by email at ``raphal20@ru.is``.

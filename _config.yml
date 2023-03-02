@@ -190,6 +190,9 @@ collections:
   tools:
     output: true
     permalink: /:collection/:path/
+  ra:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
