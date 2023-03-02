@@ -37,7 +37,7 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
     {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{ post.citation }}</p> {% endif %}
-	<p>{{ post.authors }}, <i>{{ post.conference }} {{ post.year}}</i>, <a href="{{post.pdf}}"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>pdf</a></p>
+	<p>{{ post.authors }}, <i>{{ post.conference }} {{ post.year}}</i>, <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="{{post.pdf}}"></i>pdf</a></p>
     </li>
  </article>
 </div>
