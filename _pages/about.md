@@ -19,4 +19,4 @@ My PhD thesis is in between **machine learning** and **model checking**.
 
 Contact
 -------
-You can reach by email at ``raphal20@ru.is``.
+You can reach me by email at ``raphal20@ru.is``.
