@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 --------
-I am a PhD student at [Reykjavik University](https://ru.is), under the supervision of Anna Ingólfsdóttir and [Giovanni Bacci](https://people.cs.aau.dk/~giovbacci/).
+I am a PhD student at [Reykjavik University](https://hr.is), under the supervision of Anna Ingólfsdóttir and [Giovanni Bacci](https://people.cs.aau.dk/~giovbacci/).
 
 About my thesis
 ---------------
