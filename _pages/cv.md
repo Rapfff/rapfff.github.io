@@ -15,7 +15,7 @@ Education
 ---------
 * B.S. in Computer Science, Université Libre de Bruxelles, Belgium, 2019
 * M.S. in Computer Science, Université Libre de Bruxelles, Belgium, 2020
-* Ph.D in Computer Science, Reykjavik University, 2023 (expected)
+* Ph.D in Computer Science, Reykjavik University, Iceland, 2023 (expected)
 
 Publications
 ---------
