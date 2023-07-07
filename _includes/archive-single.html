@@ -44,7 +44,11 @@
         {% elsif post.collection == 'publications' %}
 		  <p>{{ post.authors }}<br>
           Presented at <i>{{ post.conference }}</i>  {{ post.year}} <br>
-		  <i class="fa fa-file-pdf" aria-hidden="true"></i> <a target="_blank" rel="noopener noreferrer" href="/files/publications/{{post.pdf }}">pdf</a> - <i class="fa fa-quote-right" aria-hidden="true"></i> <a target="_blank" rel="noopener noreferrer" href="{{ post.cite }}">cite</a></p>
+      {% if post.pdf == '' %}
+        <i class="fa fa-file-pdf" aria-hidden="true"></i> <del>pdf</del>(soon) - <i class="fa fa-quote-right" aria-hidden="true"></i> <a target="_blank" rel="noopener noreferrer" href="/files/refs/{{ post.cite }}">cite</a></p>
+      {% else %}
+		    <i class="fa fa-file-pdf" aria-hidden="true"></i> <a target="_blank" rel="noopener noreferrer" href="/files/publications/{{post.pdf }}">pdf</a> - <i class="fa fa-quote-right" aria-hidden="true"></i> <a target="_blank" rel="noopener noreferrer" href="/files/refs/{{ post.cite }}">cite</a></p>
+      {% endif %}
 
 		{% elsif post.collection == 'tools' %}
 		  <p>Language: {{ post.language}}<br>

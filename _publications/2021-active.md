@@ -3,7 +3,7 @@ title: "Active Learning of Markov Decision Processes using Baum-Welch algorithm"
 collection: publications
 permalink: /publication/2021-active
 pdf : 'Active Learning of Markov Decision Processes.pdf'
-cite : 'https://dblp.org/rec/conf/icmla/BacciILR21.html?view=bibtex'
+cite : 'Bacci21.bib'
 conference : 'ICMLA'
 year : 2021
 date: 2021-11-01
