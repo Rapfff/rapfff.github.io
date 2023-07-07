@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[pdf](/files/CV.pdf)
+[pdf](/files/Raphael Reynouard - CV.pdf)
 
 Education
 ---------

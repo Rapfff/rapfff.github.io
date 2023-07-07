@@ -44,11 +44,11 @@
         {% elsif post.collection == 'publications' %}
 		  <p>{{ post.authors }}<br>
           Presented at <i>{{ post.conference }}</i>  {{ post.year}} <br>
-		  <i class="fa fa-file-pdf" aria-hidden="true"></i> <a href="{{ post.pdf }}">pdf</a> - <i class="fa fa-quote-right" aria-hidden="true"></i> <a href="{{ post.cite }}">cite</a></p>
+		  <i class="fa fa-file-pdf" aria-hidden="true"></i> <a target="_blank" rel="noopener noreferrer" href="/files/publications/{{post.pdf }}">pdf</a> - <i class="fa fa-quote-right" aria-hidden="true"></i> <a target="_blank" rel="noopener noreferrer" href="{{ post.cite }}">cite</a></p>
 
 		{% elsif post.collection == 'tools' %}
 		  <p>Language: {{ post.language}}<br>
-		  <i class="fab fa-fw fa-github" aria-hidden="true"></i> <a href="{{ post.source }}">Source code</a> - <i class="fa fa-book" aria-hidden="true"></i> <a href="{{ post.doc }}">Documentation</a><br>
+		  <i class="fab fa-fw fa-github" aria-hidden="true"></i> <a target="_blank" rel="noopener noreferrer" href="{{ post.source }}">Source code</a> - <i class="fa fa-book" aria-hidden="true"></i> <a target="_blank" rel="noopener noreferrer" href="{{ post.doc }}">Documentation</a><br>
 		  {{ post.year}}
 		  </p>
 

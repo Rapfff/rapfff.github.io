@@ -2,7 +2,7 @@
 title: "Online Learning of non-Markovian Reward Models"
 collection: publications
 permalink: /publication/2021-online
-pdf : 'https://arxiv.org/pdf/2009.12600.pdf'
+pdf : 'Online Learning of Non-Markovian Reward Models.pdf'
 cite : 'https://dblp.org/rec/conf/icaart/RensRRM21.html?view=bibtex'
 conference : 'ICAART'
 year : 2021
