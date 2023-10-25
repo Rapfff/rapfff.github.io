@@ -41,8 +41,9 @@ Languages
 * English (professional profeciency)
 
 Skills
----------
-* Python
-* Latex
-* R
-* Tensorflow
+------
+- Python
+- Theory of Machine Learning
+- Tensorflow
+- SQL
+- Markov models
