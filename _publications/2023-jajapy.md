@@ -2,7 +2,7 @@
 title: "Jajapy: a learning library for stochastic models"
 collection: publications
 permalink: /publication/2023-jajapy
-pdf : 'Jajapy a learning library for stochastic models.pdf'
+pdf : 'Jajapy.pdf'
 cite : 'Reynouard23.bib'
 conference : 'QEST'
 year : 2023
