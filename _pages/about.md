@@ -10,21 +10,9 @@ redirect_from:
 
 About me
 --------
-I am a PhD student at [Reykjavik University](https://hr.is), under the supervision of Anna Ingólfsdóttir and [Giovanni Bacci](https://people.cs.aau.dk/~giovbacci/).
-
-About my thesis
----------------
-In my PhD project, I design and implement machine learning algorithms estimating Markov models.
-My PhD thesis is in between **machine learning** and **model checking**.
+I am a post-doctoral researcher at [eawag](https://www.eawag.ch/en/), the Swiss Federal Institute of Aquatic Science and Technology.
+I develop, design and implement **machine learning** methods applied on **hydrological systems**.
 
 Research interests
 ------------------
-Machine learning, model checking, markov models, statistical modeling.
-
-Skills
-------
-- Python
-- Theory of Machine Learning
-- Tensorflow
-- SQL
-- Markov models
+Machine learning, hydrology, model checking, markov models, statistical modeling.
