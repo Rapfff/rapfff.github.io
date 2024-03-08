@@ -44,6 +44,5 @@ Skills
 ------
 - Python
 - Theory of Machine Learning
-- Tensorflow
-- SQL
+- PyTorch
 - Markov models
