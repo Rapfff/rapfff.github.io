@@ -26,7 +26,6 @@ Machine learning, hydrology, model checking, markov models, statistical modeling
 People I'm honored to have worked with
 --------------------------------------
 - [Giovanni Bacci](https://homes.cs.aau.dk/~giovbacci/)
-- [Fabrizio Fenicia](https://www.eawag.ch/en/about-us/portrait/organisation/staff/profile/fabrizio-fenicia/show/)
 - [Marvin Höge](https://www.eawag.ch/en/about-us/portrait/organisation/staff/profile/marvin-hoege/show/)
 - [Anna Ingolfsdottir](https://scholar.google.com/citations?user=B0YC1p8AAAAJ&hl=en)
 - [Dmitri Kavetski](https://www.adelaide.edu.au/directory/dmitri.kavetski)
